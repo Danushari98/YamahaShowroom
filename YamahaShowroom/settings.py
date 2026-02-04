@@ -87,7 +87,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # CORS ALLOW ALL FOR REACT FRONTEND
 CORS_ALLOWED_ORIGINS = [ 
-"yamahashowroomsego.netlify.app",  # your deployed frontend 
+"https://yamahashowroomsego.netlify.app",  # your deployed frontend 
 "http://localhost:3000",                      
 ] 
 CORS_ALLOW_ALL_ORIGINS = False 
