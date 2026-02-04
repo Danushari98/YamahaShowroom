@@ -21,7 +21,8 @@ INSTALLED_APPS = [
     'corsheaders',
 
     # Your App
-    'YamahaBackend',
+    'YamahaBackend.apps.YamahabackendConfig',
+
 ]
 
 MIDDLEWARE = [
